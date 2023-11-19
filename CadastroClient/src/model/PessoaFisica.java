@@ -19,10 +19,6 @@ import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
 
-/**
- *
- * @author wfeli
- */
 @Entity
 @Table(name = "PessoaFisica")
 @XmlRootElement
