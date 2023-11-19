@@ -6,7 +6,6 @@ import java.net.Socket;
 import java.util.List;
 import model.Produto;
 
-// Autor: Wallace Tavares
 public class CadastroClient {
     public static void main(String[] args) {
         String servidorIP = "localhost";
